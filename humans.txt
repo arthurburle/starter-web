@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arthur Burle    arthurburle@gmail.com
 
 # THANKS
 
